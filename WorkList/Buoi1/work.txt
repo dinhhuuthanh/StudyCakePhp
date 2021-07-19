@@ -1,0 +1,5 @@
+-reading document cakephp
+-installation Project cakephp:
+ +Database connecting
+ +Creat Users Controller
+ +Work in Default layout
